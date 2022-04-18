@@ -1,2 +1,2 @@
 
-Ruby on Rails iinitial commit for github integration test
+Ruby on Rails initial commit for github integration test
